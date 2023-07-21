@@ -3,9 +3,52 @@ Image Processing
 
 **8 directories, 106 files**
 ```
+directories: 8
+      files: 106
+
 .
 ├── .gitignore
-├── 1. Data
+├── 1. Codes
+│   ├── Image_Processing.ipynb
+│   ├── ipynb codes
+│   │   ├── 19_Car_Plate_Detection.ipynb
+│   │   ├── 20_TextDetection.ipynb
+│   │   ├── 21_OCR_pytesseract.ipynb
+│   │   ├── DL_1_imgClassification.ipynb
+│   │   ├── DL_3_Object_Detection_ImageAI.ipynb
+│   │   ├── DL_4_1_Object_Detection_OpenCV_yolov3.ipynb
+│   │   ├── DL_6_Segmentation_clothes_9classes.ipynb
+│   │   ├── Object_detection_yolo_pretrained.ipynb
+│   │   └── temp.ipynb
+│   └── py codes
+│       ├── 01_Intro.py
+│       ├── 02_Drawingshapes.py
+│       ├── 03_simple_operations.py
+│       ├── 04_logicalOperations.py
+│       ├── 06_Morphological_Operations.py
+│       ├── 07_edge_Detection.py
+│       ├── 08_CornerDetection.py
+│       ├── 09_TemplateMatching.py
+│       ├── 10_HistogramEqu.py
+│       ├── 11_featureMatching.py
+│       ├── 12_ColorSpaces.py
+│       ├── 13_videoCam.py
+│       ├── 14_faceDetection.py
+│       ├── 15_HandGesture_1.py
+│       ├── 16_faceDetector_1.py
+│       ├── 17_QRdetector_1.py
+│       ├── 17_QRdetector_2.py
+│       ├── 17_barcode_and_QR_scanner.py
+│       ├── 18_MovingobjectDetector.py
+│       ├── 19_Eyetracker.py
+│       ├── 19_Eyetracker_vid.py
+│       ├── DL_4_2_Object_Detection_OpenCV_yolov3.py
+│       ├── DL_4_3_Object_Detection_OpenCV_yolov3.py
+│       ├── DL_5_Eyetracker.py
+│       ├── Takhte_Siah.py
+│       ├── firscode.py
+│       └── myPackage.py
+├── 2. Data
 │   ├── Images
 │   │   ├── 04_tehran.png
 │   │   ├── 05_tehran.jpg
@@ -76,46 +119,5 @@ Image Processing
 │       ├── haarcascade_eye.xml
 │       ├── haarcascade_frontalface_default.xml
 │       └── haarcascade_smile.xml
-├── 2. Codes
-│   ├── ipynb codes
-│   │   ├── 19_Car_Plate_Detection.ipynb
-│   │   ├── 20_TextDetection.ipynb
-│   │   ├── 21_OCR_pytesseract.ipynb
-│   │   ├── DL_1_imgClassification.ipynb
-│   │   ├── DL_3_Object_Detection_ImageAI.ipynb
-│   │   ├── DL_4_1_Object_Detection_OpenCV_yolov3.ipynb
-│   │   ├── DL_6_Segmentation_clothes_9classes.ipynb
-│   │   ├── Object_detection_yolo_pretrained.ipynb
-│   │   └── temp.ipynb
-│   └── py codes
-│       ├── 01_Intro.py
-│       ├── 02_Drawingshapes.py
-│       ├── 03_simple_operations.py
-│       ├── 04_logicalOperations.py
-│       ├── 06_Morphological_Operations.py
-│       ├── 07_edge_Detection.py
-│       ├── 08_CornerDetection.py
-│       ├── 09_TemplateMatching.py
-│       ├── 10_HistogramEqu.py
-│       ├── 11_featureMatching.py
-│       ├── 12_ColorSpaces.py
-│       ├── 13_videoCam.py
-│       ├── 14_faceDetection.py
-│       ├── 15_HandGesture_1.py
-│       ├── 16_faceDetector_1.py
-│       ├── 17_QRdetector_1.py
-│       ├── 17_QRdetector_2.py
-│       ├── 17_barcode_and_QR_scanner.py
-│       ├── 18_MovingobjectDetector.py
-│       ├── 19_Eyetracker.py
-│       ├── 19_Eyetracker_vid.py
-│       ├── DL_4_2_Object_Detection_OpenCV_yolov3.py
-│       ├── DL_4_3_Object_Detection_OpenCV_yolov3.py
-│       ├── DL_5_Eyetracker.py
-│       ├── Takhte_Siah.py
-│       ├── firscode.py
-│       └── myPackage.py
-├── Image_Processing.ipynb
-├── README.md
-└── tree.txt
+└── README.md
 ```
