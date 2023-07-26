@@ -130,3 +130,7 @@ Folder PATH listing
             haarcascade_frontalface_default.xml
             haarcascade_smile.xml
 ```
+
+# Acknowledgements
+
+This project has been developed based on the work from the original repository [here](https://github.com/mrymsadeghi/Learn_Python_codes). We would like to thank [@mrymsadeghi](https://github.com/mrymsadeghi) for their contributions.
