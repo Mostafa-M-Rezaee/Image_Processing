@@ -133,4 +133,4 @@ Folder PATH listing
 
 # Acknowledgements
 
-This project has been developed based on the work from the original repository [here](https://github.com/mrymsadeghi/Learn_Python_codes). We would like to thank [@mrymsadeghi](https://github.com/mrymsadeghi) for their contributions.
+This project has been developed based on the work from the original tutorial [here](https://www.youtube.com/watch?v=xDtB5hzbmDA&list=PL4sqgbpSjuJgfC-5iO14jPG8CDPoD2rOM). We would like to thank Maryam Sadeghi ( [YouTube](https://www.youtube.com/@MaryamSadeghiPython)) for their contributions.
